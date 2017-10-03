@@ -11,6 +11,13 @@
 
 ☕️  List of productivity tips and hacks. Inspired by [@sindresorhus](https://github.com/sindresorhus)' [awesome](https://github.com/sindresorhus/awesome) lists.
 
+## Contents
+
+- [Awesome Productivity](https://github.com/eivindml/awesome-productivity)
+	- [Contents](#contents)
+	- [Techniques & concepts](#techniques-concepts)
+	- [Tools & apps](#tools-apps)
+	- [Resources](#resources)
 
 ## Techniques & concepts
 
