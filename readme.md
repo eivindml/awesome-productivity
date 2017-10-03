@@ -26,7 +26,7 @@
 ## Tools & apps
 
 ## Resources
-- [ ] [Awesome OKRs](https://github.com/domenicosolazzo/awesome-okr) –
-- [ ] quantified self https://github.com/woop/awesome-quantified-self
-- [ ] Link til gode nyhetskilder: http://mymorningroutine.com
-- [ ] thesweetsetup
+- [Awesome OKRs](https://github.com/domenicosolazzo/awesome-okr) – An awesome list with more details about OKRs.
+- [Awesome Quantified Self](https://github.com/woop/awesome-quantified-self) – An awesome liste about the concept of _quantified self_.
+- [mymorningroutine.com](http://mymorningroutine.com) – Interviews with interessting people about their morning routines.
+- [thesweetsetup.com](https://thesweetsetup.com) – Really thorough reviews and recommendations of the best apps for your iPhone, iPad, and Mac.
